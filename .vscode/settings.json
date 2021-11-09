@@ -1,0 +1,5 @@
+{
+    "dart.flutterHotRestartOnSave": false,
+    "dart.flutterHotReloadOnSave": "never",
+    "task.saveBeforeRun": "never"
+}

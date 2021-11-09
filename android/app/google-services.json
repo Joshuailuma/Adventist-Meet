@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59829028960",
+    "firebase_url": "https://jsh-peach.firebaseio.com",
+    "project_id": "jsh-peach",
+    "storage_bucket": "jsh-peach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59829028960:android:466ae1c2c75cbaaa7a5b05",
+        "android_client_info": {
+          "package_name": "com.joshuailuma.adventist_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59829028960-6dgs7v9sfl1pihvt1icavqnli4f10me6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joshuailuma.adventist_meet",
+            "certificate_hash": "8ff4bfb6e5d8824ab18ac0a4170d8fd9eb61a0bb"
+          }
+        },
+        {
+          "client_id": "59829028960-at7qcdpnmvdk69l6t0jap03bdvo357rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqI-P4Ze8vAuuf6_kxotqQiSEL4VznpAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59829028960-at7qcdpnmvdk69l6t0jap03bdvo357rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
