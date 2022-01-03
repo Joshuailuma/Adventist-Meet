@@ -115,7 +115,7 @@ class _HomeScreenState extends State<HomeScreen> {
               height: 2.4.h,
               width: 54.w,
               press: () {
-                Navigator.pushNamed(context, '/Hello');
+                Navigator.pushNamed(context, '/NoteHome');
               },
             ),
           ],

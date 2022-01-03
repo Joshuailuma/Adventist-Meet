@@ -19,6 +19,8 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:sizer/sizer.dart';
 
+import 'notes/note_home.dart';
+
 //Receive firebase message when app is in background
 Future<void> backgroundHandler(RemoteMessage message) async {
   await Firebase.initializeApp();
@@ -94,7 +96,7 @@ class _MyAppState extends State<MyApp> {
                     '/DailPadScreen': (context) => DailPad(),
                     '/HymnScreen': (context) => HymnScreen(),
                     '/SearchScreen': (context) => SearchScreen(),
-                    '/Hello': (context) => Hello(),
+                    '/NoteHome': (context) => NoteHome(),
                     '/UsernameScreen': (context) => UsernameScreen(),
                     '/EditProfile': (context) => EditProfile(),
                     '/ProfilePicture': (context) => ProfilePicture(),
