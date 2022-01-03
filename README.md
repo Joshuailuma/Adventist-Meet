@@ -10,9 +10,7 @@ Profile
 
 ![alt text](https://github.com/Joshuailuma/Adventist-Meet/blob/main/flutter_03.png?raw=true)
 
-Hymn book
 
-![alt text](https://github.com/Joshuailuma/Adventist-Meet/blob/main/flutter_04.png?raw=true)
 
 
 Chat screen
@@ -22,3 +20,14 @@ Chat screen
 Notification implemented using firebase cloud function.
 
 ![alt text](https://github.com/Joshuailuma/Adventist-Meet/blob/main/flutter_06.png?raw=true)
+
+
+![alt text](https://github.com/Joshuailuma/Adventist-Meet/blob/main/flutter_07.png?raw=true)
+
+
+![alt text](https://github.com/Joshuailuma/Adventist-Meet/blob/main/flutter_08.png?raw=true)
+
+
+Hymn book
+
+![alt text](https://github.com/Joshuailuma/Adventist-Meet/blob/main/flutter_04.png?raw=true)
